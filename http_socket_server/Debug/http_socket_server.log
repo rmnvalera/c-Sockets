@@ -1,0 +1,5 @@
+﻿  http_socket_server.cpp
+c:\users\roman\source\repos\netprogrammingexamples2\http_socket_server\http_socket_server.cpp(12): warning C4005: _WIN32_WINNT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\sdkddkver.h(213): note: см. предыдущее определение "_WIN32_WINNT"
+  http_socket_server.vcxproj -> C:\Users\Roman\source\repos\netprogrammingexamples2\Debug\http_socket_server.exe
+  http_socket_server.vcxproj -> C:\Users\Roman\source\repos\netprogrammingexamples2\Debug\http_socket_server.pdb (Partial PDB)

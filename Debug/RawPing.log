@@ -1,0 +1,5 @@
+﻿  rawping.cpp
+c:\users\roman\source\repos\netprogrammingexamples2\rawping\rawping.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note:  см. объявление "strcpy"
+  RawPing.vcxproj -> C:\Users\Roman\source\repos\netprogrammingexamples2\Debug\RawPing.exe
+  RawPing.vcxproj -> C:\Users\Roman\source\repos\netprogrammingexamples2\Debug\RawPing.pdb (Partial PDB)
